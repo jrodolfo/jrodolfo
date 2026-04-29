@@ -68,7 +68,7 @@ Extended from a learning project into a production-oriented system:
 
 ## 📊 GitHub Stats & Top Languages
 
-![Rod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrodolfo&show_icons=true&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jrodolfo&show_icons=true&hide=issues&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrodolfo&layout=compact)
 ---
 
