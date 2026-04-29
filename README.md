@@ -66,6 +66,12 @@ Extended from a learning project into a production-oriented system:
 
 ---
 
+## 📊 GitHub Stats
+
+![Rod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrodolfo&show_icons=true&hide_title=true)
+
+---
+
 ## 📈 How I Use GitHub
 
 I focus on a small number of solid repositories that demonstrate:
