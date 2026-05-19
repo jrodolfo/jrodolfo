@@ -1,9 +1,9 @@
 # 👋 Hello, I am Rod Oliveira
 
-Software Developer based in Halifax, Canada 🇨🇦  
-Focused on backend systems and AI-driven applications
+Software Developer based in Halifax, Canada. Focused on backend systems and AI-driven applications.
 
-I build practical systems that integrate APIs, messaging, and large language models, with an emphasis on clean architecture and real-world use.
+I build practical systems that integrate APIs, messaging, and large language models, with an emphasis on clean
+architecture and real-world use.
 
 ---
 
