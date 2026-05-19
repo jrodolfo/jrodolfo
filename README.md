@@ -68,9 +68,12 @@ Extended from a learning project into a production-oriented system:
 
 ## 📊 GitHub Stats & Top Languages
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jrodolfo&show_icons=true&hide=issues&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrodolfo&layout=compact)
----
+<p align="center">
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+</p>
+
+--- 
 
 ## 📈 How I Use GitHub
 
