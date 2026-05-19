@@ -95,3 +95,4 @@ I focus on a small number of solid repositories that demonstrate:
 ## 📬 Contact
 
 Open to software engineering opportunities, especially in backend and AI-related roles.
+Email: [jrodolfo@gmail.com](mailto:jrodolfo@gmail.com)
