@@ -26,7 +26,7 @@ I build practical systems that integrate APIs, messaging, and large language mod
 
 ## 🧩 Featured Projects
 
-### 🔹 GenAI Lab
+### 🔹 [GenAI Lab](https://github.com/jrodolfo/local-genai-lab)
 Local experimentation platform integrating multiple LLM providers with:
 - streaming responses  
 - persistent chat sessions  
@@ -36,14 +36,14 @@ Local experimentation platform integrating multiple LLM providers with:
 
 ---
 
-### 🔹 Solace API Integration
+### 🔹 [Solace API Integration](https://github.com/jrodolfo/solace)
 Backend service integrating with Solace PubSub+ for event-driven systems
 
 👉 Focus: messaging, reliability, backend architecture
 
 ---
 
-### 🔹 Job Portal Application
+### 🔹 [Job Portal Application](https://github.com/jrodolfo/job-portal)
 Extended from a learning project into a production-oriented system:
 - AWS deployment  
 - Docker support  
