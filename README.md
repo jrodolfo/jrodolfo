@@ -1,9 +1,9 @@
 # 👋 Hello, I am Rod Oliveira
 
-Software Developer based in Halifax, Canada 🇨🇦  
-Focused on backend systems and AI-driven applications
+Software Developer based in Halifax, Canada. Focused on backend systems and AI-driven applications.
 
-I build practical systems that integrate APIs, messaging, and large language models, with an emphasis on clean architecture and real-world use.
+I build practical systems that integrate APIs, messaging, and large language models, with an emphasis on clean
+architecture and real-world use.
 
 ---
 
@@ -68,9 +68,12 @@ Extended from a learning project into a production-oriented system:
 
 ## 📊 GitHub Stats & Top Languages
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jrodolfo&show_icons=true&hide=issues&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrodolfo&layout=compact)
----
+<p align="center">
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+</p>
+
+--- 
 
 ## 📈 How I Use GitHub
 
@@ -92,3 +95,4 @@ I focus on a small number of solid repositories that demonstrate:
 ## 📬 Contact
 
 Open to software engineering opportunities, especially in backend and AI-related roles.
+Email: [jrodolfo@gmail.com](mailto:jrodolfo@gmail.com)
