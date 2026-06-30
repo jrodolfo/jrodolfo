@@ -36,7 +36,7 @@ Local experimentation platform integrating multiple LLM providers with:
 
 ---
 
-### 🔹 [Solace API Integration](https://github.com/jrodolfo/solace)
+### 🔹 [Solace Workspace](https://github.com/jrodolfo/solace)
 Backend service integrating with Solace PubSub+ for event-driven systems
 
 👉 Focus: messaging, reliability, backend architecture
