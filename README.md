@@ -27,7 +27,10 @@ Local experimentation platform integrating multiple LLM providers with:
 ---
 
 ### 🔹 [Solace Workspace](https://github.com/jrodolfo/solace)
-Backend service integrating with Solace PubSub+ for event-driven systems
+Backend service integrating with Solace PubSub+ featuring:
+- asynchronous messaging
+- event-driven workflows
+- Spring Boot and React integration
 
 ---
 
