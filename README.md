@@ -9,18 +9,10 @@ architecture and real-world use.
 
 ## 🚀 What I Do
 
-- Build backend services using Java and Spring Boot  
-- Integrate LLM providers (Ollama, Amazon Bedrock, Hugging Face)  
-- Develop API-driven systems with persistence and messaging  
-- Work with cloud, containerization, and observability  
-
----
-
-## 🧠 Current Focus
-
-- Advancing in AI and distributed systems  
-- Building hands-on projects with LLM integrations  
-- Preparing for AI-related certifications  
+- Build backend applications using Java and Spring Boot
+- Design and integrate REST APIs and event-driven systems
+- Develop AI-enabled applications using multiple LLM providers
+- Deploy and enhance applications with cloud, containers, and observability
 
 ---
 
@@ -30,27 +22,21 @@ architecture and real-world use.
 Local experimentation platform integrating multiple LLM providers with:
 - streaming responses  
 - persistent chat sessions  
-- tool-assisted interactions  
-
-👉 Focus: real-world GenAI system design
+- tool-assisted interactions
 
 ---
 
 ### 🔹 [Solace API Integration](https://github.com/jrodolfo/solace)
 Backend service integrating with Solace PubSub+ for event-driven systems
 
-👉 Focus: messaging, reliability, backend architecture
-
 ---
 
 ### 🔹 [Job Portal Application](https://github.com/jrodolfo/job-portal)
-Extended from a learning project into a production-oriented system:
+Expanded beyond the original learning project with:
 - AWS deployment  
 - Docker support  
 - OpenTelemetry integration  
-- structural refactoring and stability improvements  
-
-👉 Focus: turning theory into production-style engineering
+- Structural refactoring and stability improvements
 
 ---
 
@@ -62,7 +48,7 @@ Extended from a learning project into a production-oriented system:
 **Cloud:** AWS  
 **Messaging:** Solace PubSub+  
 **Database:** MySQL  
-**Tools:** Docker, Git, OpenTelemetry  
+**Tools:** Docker, Git, Jenkins, OpenTelemetry  
 
 ---
 
@@ -73,22 +59,12 @@ Extended from a learning project into a production-oriented system:
   <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
---- 
-
-## 📈 How I Use GitHub
-
-I focus on a small number of solid repositories that demonstrate:
-- clear problem definition  
-- thoughtful architecture  
-- maintainable code  
-- practical use cases  
-
 ---
 
 ## 🌐 Links
 
-- 🌍 Website: https://jrodolfo.net  
-- 💼 LinkedIn: http://linkedin.com/in/rodoliveira  
+- 🌍 [Website](https://jrodolfo.net)
+- 💼 [LinkedIn](https://linkedin.com/in/rodoliveira)
 
 ---
 
