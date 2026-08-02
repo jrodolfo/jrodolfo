@@ -34,12 +34,11 @@ Backend service integrating with Solace PubSub+ featuring:
 
 ---
 
-### 🔹 [Job Portal Application](https://github.com/jrodolfo/job-portal)
-Expanded beyond the original learning project with:
-- AWS deployment  
-- Docker support  
-- OpenTelemetry integration  
-- Structural refactoring and stability improvements
+### 🔹 [Java Evolution](https://github.com/jrodolfo/java-evolution)
+Practical exploration of modern Java through focused examples covering:
+- recent language features
+- modern idioms and cleaner modeling
+- hands-on experiments with evolving Java capabilities
 
 ---
 
