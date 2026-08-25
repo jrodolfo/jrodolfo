@@ -49,7 +49,7 @@ Backend service integrating with Solace PubSub+ featuring:
 **Frontend:** React  
 **AI / LLMs:** Ollama, Amazon Bedrock, Hugging Face  
 **Cloud:** AWS  
-**Messaging:** Solace PubSub+  
+**Messaging:** Solace PubSub+, Apache Kafka
 **Database:** MySQL  
 **Tools:** Docker, Git, Jenkins, OpenTelemetry  
 
