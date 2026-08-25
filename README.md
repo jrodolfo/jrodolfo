@@ -55,10 +55,9 @@ Backend service integrating with Solace PubSub+ featuring:
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 📊 Top Languages
 
 <p align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
   <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
