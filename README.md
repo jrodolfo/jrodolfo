@@ -26,6 +26,14 @@ Local experimentation platform integrating multiple LLM providers with:
 
 ---
 
+### 🔹 [Java Evolution](https://github.com/jrodolfo/java-evolution)
+Practical exploration of modern Java through focused examples covering:
+- recent language features
+- modern idioms and cleaner modeling
+- hands-on experiments with evolving Java capabilities
+
+---
+
 ### 🔹 [Solace Workspace](https://github.com/jrodolfo/solace)
 Backend service integrating with Solace PubSub+ featuring:
 - asynchronous messaging
@@ -34,13 +42,6 @@ Backend service integrating with Solace PubSub+ featuring:
 
 ---
 
-### 🔹 [Java Evolution](https://github.com/jrodolfo/java-evolution)
-Practical exploration of modern Java through focused examples covering:
-- recent language features
-- modern idioms and cleaner modeling
-- hands-on experiments with evolving Java capabilities
-
----
 
 ## 🛠️ Tech Stack
 
